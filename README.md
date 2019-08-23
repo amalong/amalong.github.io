@@ -5,9 +5,9 @@ My name is Jared Amalong and I will be your instructor for the semester.  During
 ### About Me
 
 This is my third year working as part-time faculty at Sierra College.  I've enjoyed teaching classes in:
--Management Information Systems
--Database Management
--Operating Systems
+- Management Information Systems
+- Database Management
+- Operating Systems
 
 ```markdown
 Syntax highlighted code block
