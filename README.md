@@ -10,3 +10,5 @@ This is my third year working as part-time faculty at Sierra College.  I've enjo
 - Operating Systems
 
 I am very excited to work with you this semester!
+
+[Unit 1 Reflection](./unit1.md)
